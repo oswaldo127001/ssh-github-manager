@@ -1,0 +1,13 @@
+# SSH GitHub Configurator Requirements
+# This application uses only Python standard library modules
+# No external dependencies required
+
+# Python 3.6+ is required for:
+# - pathlib (Path objects)
+# - subprocess with timeout parameter
+# - tkinter (included in most Python installations)
+
+# Note: On some Linux distributions, tkinter might need to be installed separately:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# CentOS/RHEL: sudo yum install tkinter
+# Fedora: sudo dnf install python3-tkinter
